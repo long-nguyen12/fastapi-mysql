@@ -1,0 +1,7 @@
+pydantic
+fastapi
+PyMySQL
+databases
+python-multipart
+mysqlclient==2.0.3
+sqlalchemy
